@@ -63,3 +63,14 @@ El sistema deberá ser capaz de:
 - Almacenar información básica de los eventos.
 - Mostrar los eventos en una interfaz básica.
 - Generar una alerta cuando se detecte una persona desconocida o un evento relevante.
+
+## Problema y objetivo
+
+**Problema:** 
+El monitoreo manual de múltiples cámaras de seguridad genera fatiga visual y retrasos en la detección de incidentes críticos. Actualmente no se cuenta con un mecanismo centralizado que procese el flujo de video de forma automatizada para alertar sobre eventos relevantes en tiempo real, dificultando la respuesta oportuna y el registro estructurado de evidencia.
+
+**Objetivo:** 
+Desarrollar un sistema de videovigilancia capaz de procesar flujos de video en tiempo real y registrar eventos detectados con una latencia inferior a 3 segundos en al menos el 90% de las pruebas controladas del semestre 2026B.
+
+**Siguiente paso concreto:** 
+Configurar el módulo de captura de video con OpenCV y realizar las pruebas iniciales de conexión y lectura de frames con una cámara IP/local de prueba.
