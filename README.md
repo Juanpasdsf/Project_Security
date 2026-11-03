@@ -74,3 +74,20 @@ Desarrollar un sistema de videovigilancia capaz de procesar flujos de video en t
 
 **Siguiente paso concreto:** 
 Configurar el módulo de captura de video con OpenCV y realizar las pruebas iniciales de conexión y lectura de frames con una cámara IP/local de prueba.
+
+## Pruebas iniciales de captura de video
+
+Antes de integrar la captura de video al sistema, se deben
+realizar las siguientes comprobaciones:
+
+1. **Conexión:** verificar que la cámara local o IP de prueba pueda abrirse correctamente.
+2. **Lectura de frames:** comprobar que se reciben imágenes de manera continua.
+3. **Manejo de errores:** registrar los problemas de conexión o lectura que se presenten durante las pruebas.
+
+### Resultados esperados
+
+- La cámara se abre correctamente.
+- Se reciben frames de video.
+- Los errores de conexión o lectura pueden identificarse y documentarse.
+
+**Estado:** pruebas pendientes de ejecución.
