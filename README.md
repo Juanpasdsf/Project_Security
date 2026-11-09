@@ -17,7 +17,7 @@ Los rehiletes con identificación facial actuales cumplen su función básica, p
  
 Desarrollar un sistema inteligente de videovigilancia y acceso facial en CUCEI para garantizar ingresos seguros y optimizar la respuesta operativa de seguridad.
  
-**Meta medible:** procesar flujos de video en tiempo real y registrar eventos detectados con una latencia inferior a 3 segundos en al menos el 90% de las pruebas controladas del semestre 2026B.
+**Meta medible:** procesar flujos de video en tiempo real y registrar eventos detectados con una latencia inferior a 3 segundos en al menos el 90% de las pruebas controladas.
  
 ## Objetivos particulares
  
@@ -42,7 +42,6 @@ El proyecto contempla:
 ## Fuera de alcance (primera versión)
  
 - Sustituir completamente al personal de seguridad u operar sin supervisión humana.
-- Integración con sistemas policiales o gubernamentales.
 - Bloqueo físico automático de accesos sin validación adicional del personal de seguridad.
 - Despliegue simultáneo en todos los accesos de CUCEI (la primera versión se valida en un acceso o entorno de pruebas).
 - Aplicaciones móviles y despliegue comercial.
